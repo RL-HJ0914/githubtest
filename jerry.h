@@ -7,7 +7,7 @@
 
 
 class jerry {
-    int eat_{}
+    int eat_{ggsfdsdfsvxczdsd}
 };
 
 
